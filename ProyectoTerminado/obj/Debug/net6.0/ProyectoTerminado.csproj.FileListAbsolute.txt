@@ -1,0 +1,14 @@
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.AssemblyInfoInputs.cache
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.AssemblyInfo.cs
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.csproj.CoreCompileInputs.cache
+C:\Users\MAI\source\repos\ProyectoTerminado\bin\Debug\net6.0\ProyectoTerminado.exe
+C:\Users\MAI\source\repos\ProyectoTerminado\bin\Debug\net6.0\ProyectoTerminado.deps.json
+C:\Users\MAI\source\repos\ProyectoTerminado\bin\Debug\net6.0\ProyectoTerminado.runtimeconfig.json
+C:\Users\MAI\source\repos\ProyectoTerminado\bin\Debug\net6.0\ProyectoTerminado.dll
+C:\Users\MAI\source\repos\ProyectoTerminado\bin\Debug\net6.0\ProyectoTerminado.pdb
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.dll
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\refint\ProyectoTerminado.dll
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.pdb
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ProyectoTerminado.genruntimeconfig.cache
+C:\Users\MAI\source\repos\ProyectoTerminado\obj\Debug\net6.0\ref\ProyectoTerminado.dll
